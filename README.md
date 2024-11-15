@@ -127,3 +127,10 @@ export default Contact;
 
 - **Sorting Data**:  
   Implementing sorting functionality in the table was challenging, but I resolved it by researching solutions through Google and referring to relevant documentation and examples.
+
+---
+
+### Database Used : MongoDB
+
+**Reason for Choosing MongoDB**:  
+MongoDB is a NoSQL database that offers flexibility and scalability, making it an excellent choice for this project. The schema-less nature of MongoDB allows for rapid development and easy adaptation to changes in data structure. Using Mongoose as an Object Data Modeling (ODM) library ensures robust data validation and simplifies database interactions, which is crucial for efficiently managing contact details in this application. Additionally, MongoDB's performance with JSON-like data makes it well-suited for a contact management system.
